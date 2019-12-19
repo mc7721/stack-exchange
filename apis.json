@@ -1,0 +1,136 @@
+{
+    "name": "Stack Exchange",
+    "description": "After someone asks a question, members of the community propose answers. Others vote on those answers. Very quickly, the answers with the most votes rise to the top. You don\u2019t have to read through a lot of discussion to find the best answer.    Like to...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/253-stack-exchange.jpg",
+    "tags": [
+        "answers",
+        "citations",
+        "content",
+        "forums",
+        "general data",
+        "have api",
+        "historical data api",
+        "imports",
+        "pedestal",
+        "plugins",
+        "questions",
+        "relative data",
+        "service api",
+        "streams"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/stack-exchange\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Stack Exchange",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/253-stack-exchange.jpg",
+            "humanURL": "http:\/\/stackexchange.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/stack-exchange.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/stack-exchange-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Authentication",
+            "url": "https:\/\/api.stackexchange.com\/docs\/authentication"
+        },
+        {
+            "type": "Base",
+            "url": "https:\/\/api.stackexchange.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/stackexchange.com\/blogs"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.stackoverflow.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/stack-exchange"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/stack-exchange"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/api.stackexchange.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "legal@stackexchange.com"
+        },
+        {
+            "type": "Email",
+            "url": "team@stackexchange.com"
+        },
+        {
+            "type": "Email",
+            "url": "team+api@stackexchange.com"
+        },
+        {
+            "type": "Error Codes",
+            "url": "https:\/\/api.stackexchange.com\/docs\/error-handling"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/StackExchange"
+        },
+        {
+            "type": "JavaScript SDK",
+            "url": "https:\/\/api.stackexchange.com\/docs\/js-lib"
+        },
+        {
+            "type": "LinkedIn",
+            "url": "https:\/\/www.linkedin.com\/company\/stack-exchange"
+        },
+        {
+            "type": "Privacy",
+            "url": "https:\/\/stackexchange.com\/legal\/privacy-policy"
+        },
+        {
+            "type": "Rate Limits",
+            "url": "https:\/\/api.stackexchange.com\/docs\/throttle"
+        },
+        {
+            "type": "Registration",
+            "url": "https:\/\/stackapps.com\/users\/login?returnurl=\/apps\/oauth\/register"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/stackexchange.com\/about\/contact"
+        },
+        {
+            "type": "Terms Of Service",
+            "url": "http:\/\/stackexchange.com\/legal\/api-terms-of-use"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/StackExchange"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/stackexchange.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/stackexchange.com\/"
+        }
+    ]
+}
